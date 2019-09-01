@@ -1,0 +1,13 @@
+body{
+  background-image: url("https://wallpapercave.com/wp/wp2403267.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+h1{
+font-family: "Courier New", Courier, monospace;
+  font-size:10vw;
+  text-align:center;
+  color:#fff;      
+}
